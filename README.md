@@ -1,2 +1,7 @@
 # Online-Food-Plaza
-A Java-based Online Food Ordering System using Servlets, JSP, and MySQL for managing restaurant menus, customer orders, and payments
+ Food Plaza System is an interactive online food ordering system designed 
+to streamline the process for both customers and administrators. Customers can 
+browse available food items, add them to the cart, place orders, and view their 
+profiles, while admins manage food inventory, update order statuses, and monitor 
+overall orders. The platform ensures seamless navigation with role-based 
+functionalities and secure login/logout features.
