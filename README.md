@@ -14,21 +14,26 @@ Deliver a user-friendly and responsive interface.
 
 ## Technologies Used
 
-Frontend: JSP, HTML, CSS
-Backend: Java Servlets
-Database: MySQL
-Server: Apache Tomcat (via XAMPP)
-IDE: Eclipse IDE
-Connector: MySQL Connector (JDBC)
+1.Frontend: JSP, HTML, CSS
+2.Backend: Java Servlets
+3.Database: MySQL
+4.Server: Apache Tomcat (via XAMPP)
+5.IDE: Eclipse IDE
+6.Connector: MySQL Connector (JDBC)
 
 ## Database Tables
 
-fooditem: Stores food details (ID, name, price, category).
-customer: Stores customer details (name, email, contact).
-signup: Handles user registration and roles (admin/customer).
-cart: Stores food items added by customers for ordering.
+fooditem: 
+Stores food details (ID, name, price, category).
+customer:
+Stores customer details (name, email, contact).
+signup: 
+Handles user registration and roles (admin/customer).
+cart: 
+Stores food items added by customers for ordering.
 
 Sample :
+
 <img width="867" height="594" alt="image" src="https://github.com/user-attachments/assets/281afdcb-531b-48a7-b99e-c1a9cad7b38d" />
 
 Developed By
